@@ -1,4 +1,4 @@
-FROM ruby:2.3.4
+FROM ruby:2.3.8
 
 # Install the dependencies
 RUN apt-get update && \
